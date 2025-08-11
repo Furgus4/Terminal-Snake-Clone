@@ -1,2 +1,3 @@
 # Terminal-Snake-Clone
-Simple Terminal Snake Clone; Runnable in Node.js
+Runs in Node.js
+Use WASD to move
