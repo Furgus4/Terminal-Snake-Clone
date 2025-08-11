@@ -1,6 +1,6 @@
 # Terminal-Snake-Clone
 Runs in Node.js
 
-Use WASD to move
+Use `WASD` to move
 
-Ctrl + C to quit
+`Ctrl + C` to quit
