@@ -1,5 +1,5 @@
 # Terminal-Snake-Clone
-Runs in Node.js
+Runs in a terminal
 
 Use `WASD` to move
 
